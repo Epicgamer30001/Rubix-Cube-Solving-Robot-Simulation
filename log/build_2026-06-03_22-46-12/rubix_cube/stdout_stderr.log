@@ -1,0 +1,25 @@
+-- Found ament_cmake: 2.7.5 (/opt/ros/kilted/share/ament_cmake/cmake)
+-- Configuring done (1.2s)
+-- Generating done (0.6s)
+-- Build files have been written to: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube
+-- Install configuration: ""
+-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes
+-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes/Center_Part.stl
+-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch
+-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch/rubix_launcher.launch
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/rubix.urdf
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/package_run_dependencies/rubix_cube
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/parent_prefix_path/rubix_cube
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.sh
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.dsv
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.sh
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.dsv
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.bash
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.sh
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.zsh
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.dsv
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.dsv
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/packages/rubix_cube
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig.cmake
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig-version.cmake
+-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.xml

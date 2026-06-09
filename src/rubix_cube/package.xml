@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rubix_cube</name>
+  <version>0.0.1</version>
+  <description>Rubix Cube Solving Robot Simulation</description>
+  <maintainer email="alvinpark7412@gmail.com">Alvin</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>robot_state_publisher</depend>
+  <depend>ros_gz</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

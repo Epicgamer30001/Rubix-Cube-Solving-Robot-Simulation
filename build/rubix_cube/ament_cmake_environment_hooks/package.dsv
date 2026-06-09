@@ -1,0 +1,4 @@
+source;share/rubix_cube/local_setup.bash
+source;share/rubix_cube/local_setup.dsv
+source;share/rubix_cube/local_setup.sh
+source;share/rubix_cube/local_setup.zsh

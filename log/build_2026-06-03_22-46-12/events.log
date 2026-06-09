@@ -1,0 +1,117 @@
+[0.000000] (-) TimerEvent: {}
+[0.001095] (rubix_cube) JobQueued: {'identifier': 'rubix_cube', 'dependencies': OrderedDict()}
+[0.001919] (rubix_cube) JobStarted: {'identifier': 'rubix_cube'}
+[0.054787] (rubix_cube) JobProgress: {'identifier': 'rubix_cube', 'progress': 'cmake'}
+[0.095558] (-) TimerEvent: {}
+[0.112645] (rubix_cube) JobProgress: {'identifier': 'rubix_cube', 'progress': 'build'}
+[0.125227] (rubix_cube) Command: {'cmd': ['/usr/bin/cmake', '--build', '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube', '--', '-j4', '-l4'], 'cwd': '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube', 'env': OrderedDict({'LESSOPEN': '| /usr/bin/lesspipe %s', 'CONDA_PROMPT_MODIFIER': '(rubix)', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'alvin', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/alvin', 'CONDA_SHLVL': '2', 'OLDPWD': '/home/alvin', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', '_CE_M': '', 'WSL_DISTRO_NAME': 'Ubuntu', '_CONDA_ROOT': '/home/alvin/miniconda3', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'alvin', 'NAME': 'WIN-84S76DRI50E', 'WSL_INTEROP': '/run/WSL/301_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', '_CE_CONDA': '', 'PATH': '/opt/ros/kilted/bin:/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/home/alvin/miniconda3/envs/rubix/bin:/home/alvin/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Users/alvin/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/mnt/c/Users/alvin/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0:/mnt/c/WINDOWS/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/Program Files/Amazon/AWSCLIV2:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet:/mnt/c/Users/alvin/AppData/Local/Python/bin:/mnt/c/Users/alvin/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/alvin/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/msys64/mingw64/bin:/mnt/c/users/alvin/appdata/local/python/pythoncore-3.14-64/lib/site-packages:/mnt/c/Users/alvin/.local/bin/claude.exe:/mnt/c/Users/alvin/AppData/Roaming/npm:/mnt/c/Users/alvin/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'CONDA_PREFIX_1': '/home/alvin/miniconda3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/opt/ros/kilted:/opt/ros/jazzy', 'CONDA_PYTHON_EXE': '/home/alvin/miniconda3/bin/python', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'CONDA_DEFAULT_ENV': 'rubix', '_CONDA_EXE': '/home/alvin/miniconda3/bin/conda', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube', 'TURTLEBOT3_MODEL': 'burger', 'CONDA_EXE': '/home/alvin/miniconda3/bin/conda', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/opt/ros/kilted/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'CONDA_PREFIX': '/home/alvin/miniconda3/envs/rubix', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/kilted:/opt/ros/jazzy', 'WSLENV': ''}), 'shell': False}
+[0.195728] (-) TimerEvent: {}
+[0.296453] (-) TimerEvent: {}
+[0.398129] (-) TimerEvent: {}
+[0.499430] (-) TimerEvent: {}
+[0.501942] (rubix_cube) StdoutLine: {'line': b'-- Found ament_cmake: 2.7.5 (/opt/ros/kilted/share/ament_cmake/cmake)\n'}
+[0.599623] (-) TimerEvent: {}
+[0.700570] (-) TimerEvent: {}
+[0.801263] (-) TimerEvent: {}
+[0.902383] (-) TimerEvent: {}
+[1.003041] (-) TimerEvent: {}
+[1.103718] (-) TimerEvent: {}
+[1.204847] (-) TimerEvent: {}
+[1.306039] (-) TimerEvent: {}
+[1.406959] (-) TimerEvent: {}
+[1.507726] (-) TimerEvent: {}
+[1.608884] (-) TimerEvent: {}
+[1.618118] (rubix_cube) StdoutLine: {'line': b'-- Configuring done (1.2s)\n'}
+[1.708977] (-) TimerEvent: {}
+[1.809630] (-) TimerEvent: {}
+[1.911101] (-) TimerEvent: {}
+[2.012225] (-) TimerEvent: {}
+[2.113499] (-) TimerEvent: {}
+[2.214641] (-) TimerEvent: {}
+[2.315711] (-) TimerEvent: {}
+[2.363163] (rubix_cube) StdoutLine: {'line': b'-- Generating done (0.6s)\n'}
+[2.416098] (-) TimerEvent: {}
+[2.517657] (-) TimerEvent: {}
+[2.618497] (-) TimerEvent: {}
+[2.719426] (-) TimerEvent: {}
+[2.812102] (rubix_cube) StdoutLine: {'line': b'-- Build files have been written to: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube\n'}
+[2.819564] (-) TimerEvent: {}
+[2.858798] (rubix_cube) CommandEnded: {'returncode': 0}
+[2.895415] (rubix_cube) JobProgress: {'identifier': 'rubix_cube', 'progress': 'install'}
+[2.912702] (rubix_cube) Command: {'cmd': ['/usr/bin/cmake', '--install', '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube'], 'cwd': '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube', 'env': OrderedDict({'LESSOPEN': '| /usr/bin/lesspipe %s', 'CONDA_PROMPT_MODIFIER': '(rubix)', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'alvin', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/alvin', 'CONDA_SHLVL': '2', 'OLDPWD': '/home/alvin', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', '_CE_M': '', 'WSL_DISTRO_NAME': 'Ubuntu', '_CONDA_ROOT': '/home/alvin/miniconda3', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'alvin', 'NAME': 'WIN-84S76DRI50E', 'WSL_INTEROP': '/run/WSL/301_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', '_CE_CONDA': '', 'PATH': '/opt/ros/kilted/bin:/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/home/alvin/miniconda3/envs/rubix/bin:/home/alvin/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Users/alvin/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/mnt/c/Users/alvin/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0:/mnt/c/WINDOWS/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/Program Files/Amazon/AWSCLIV2:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet:/mnt/c/Users/alvin/AppData/Local/Python/bin:/mnt/c/Users/alvin/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/alvin/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/msys64/mingw64/bin:/mnt/c/users/alvin/appdata/local/python/pythoncore-3.14-64/lib/site-packages:/mnt/c/Users/alvin/.local/bin/claude.exe:/mnt/c/Users/alvin/AppData/Roaming/npm:/mnt/c/Users/alvin/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'CONDA_PREFIX_1': '/home/alvin/miniconda3', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/opt/ros/kilted:/opt/ros/jazzy', 'CONDA_PYTHON_EXE': '/home/alvin/miniconda3/bin/python', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'CONDA_DEFAULT_ENV': 'rubix', '_CONDA_EXE': '/home/alvin/miniconda3/bin/conda', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube', 'TURTLEBOT3_MODEL': 'burger', 'CONDA_EXE': '/home/alvin/miniconda3/bin/conda', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/opt/ros/kilted/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'CONDA_PREFIX': '/home/alvin/miniconda3/envs/rubix', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/kilted:/opt/ros/jazzy', 'WSLENV': ''}), 'shell': False}
+[2.919711] (-) TimerEvent: {}
+[2.929477] (rubix_cube) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.958512] (rubix_cube) StdoutLine: {'line': b'-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes\n'}
+[3.019903] (-) TimerEvent: {}
+[3.025252] (rubix_cube) StdoutLine: {'line': b'-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes/Center_Part.stl\n'}
+[3.084772] (rubix_cube) StdoutLine: {'line': b'-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch\n'}
+[3.120181] (-) TimerEvent: {}
+[3.163753] (rubix_cube) StdoutLine: {'line': b'-- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch/rubix_launcher.launch\n'}
+[3.220440] (-) TimerEvent: {}
+[3.234941] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/rubix.urdf\n'}
+[3.320573] (-) TimerEvent: {}
+[3.421915] (-) TimerEvent: {}
+[3.498114] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/package_run_dependencies/rubix_cube\n'}
+[3.522075] (-) TimerEvent: {}
+[3.622867] (-) TimerEvent: {}
+[3.723971] (-) TimerEvent: {}
+[3.825376] (-) TimerEvent: {}
+[3.845747] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/parent_prefix_path/rubix_cube\n'}
+[3.925588] (-) TimerEvent: {}
+[4.026633] (-) TimerEvent: {}
+[4.108836] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.sh\n'}
+[4.126950] (-) TimerEvent: {}
+[4.227858] (-) TimerEvent: {}
+[4.258745] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.dsv\n'}
+[4.328247] (-) TimerEvent: {}
+[4.417416] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.sh\n'}
+[4.428565] (-) TimerEvent: {}
+[4.529375] (-) TimerEvent: {}
+[4.589980] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.dsv\n'}
+[4.629789] (-) TimerEvent: {}
+[4.730949] (-) TimerEvent: {}
+[4.770982] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.bash\n'}
+[4.831410] (-) TimerEvent: {}
+[4.923101] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.sh\n'}
+[4.931514] (-) TimerEvent: {}
+[5.032298] (-) TimerEvent: {}
+[5.069444] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.zsh\n'}
+[5.132614] (-) TimerEvent: {}
+[5.213823] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.dsv\n'}
+[5.232771] (-) TimerEvent: {}
+[5.333501] (-) TimerEvent: {}
+[5.373659] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.dsv\n'}
+[5.433632] (-) TimerEvent: {}
+[5.534145] (-) TimerEvent: {}
+[5.635105] (-) TimerEvent: {}
+[5.681568] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/packages/rubix_cube\n'}
+[5.735477] (-) TimerEvent: {}
+[5.836136] (-) TimerEvent: {}
+[5.937044] (-) TimerEvent: {}
+[6.027117] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig.cmake\n'}
+[6.037317] (-) TimerEvent: {}
+[6.138145] (-) TimerEvent: {}
+[6.219146] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig-version.cmake\n'}
+[6.238478] (-) TimerEvent: {}
+[6.339928] (-) TimerEvent: {}
+[6.421647] (rubix_cube) StdoutLine: {'line': b'-- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.xml\n'}
+[6.440139] (-) TimerEvent: {}
+[6.541118] (-) TimerEvent: {}
+[6.561492] (rubix_cube) CommandEnded: {'returncode': 0}
+[6.641349] (-) TimerEvent: {}
+[6.742601] (-) TimerEvent: {}
+[6.843588] (-) TimerEvent: {}
+[6.944732] (-) TimerEvent: {}
+[7.045320] (-) TimerEvent: {}
+[7.146460] (-) TimerEvent: {}
+[7.247404] (-) TimerEvent: {}
+[7.348428] (-) TimerEvent: {}
+[7.449370] (-) TimerEvent: {}
+[7.550355] (-) TimerEvent: {}
+[7.651233] (-) TimerEvent: {}
+[7.752004] (-) TimerEvent: {}
+[7.852835] (-) TimerEvent: {}
+[7.954032] (-) TimerEvent: {}
+[8.055340] (-) TimerEvent: {}
+[8.077409] (rubix_cube) JobEnded: {'identifier': 'rubix_cube', 'rc': 0}
+[8.099652] (-) EventReactorShutdown: {}

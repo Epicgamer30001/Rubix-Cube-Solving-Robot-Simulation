@@ -1,0 +1,9 @@
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/uninstall.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/rubix_cube_uninstall.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/test.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/edit_cache.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/list_install_components.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/install.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/install/local.dir
+/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube/CMakeFiles/install/strip.dir

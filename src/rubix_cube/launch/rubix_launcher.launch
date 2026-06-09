@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<launch>
+
+    <arg name="verbose" default="4"/>
+
+    <!-- Start Gazebo with an empty world -->
+    <executable cmd="gz sim -r empty.sdf -v $(var verbose)" output="screen"/>
+
+    <!-- Publish URDF to /robot_description topic -->
+    <node pkg="robot_state_publisher" exec="robot_state_publisher" name="robot_state_publisher" output="screen">
+        <param name="robot_description" value="$(command 'cat &quot;$(find-pkg-share rubix_cube)/rubix.urdf&quot;')"/>
+    </node>
+
+    <!-- Spawn robot into Gazebo from the topic -->
+    <node pkg="ros_gz_sim" exec="create" name="spawn_robot" output="screen"
+          args="-topic /robot_description -name rubix_cube"/>
+
+</launch>

@@ -1,0 +1,29 @@
+[0.154s] Invoking command in '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/kilted:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(rubix) /usr/bin/cmake --build /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube -- -j4 -l4
+[0.501s] -- Found ament_cmake: 2.7.5 (/opt/ros/kilted/share/ament_cmake/cmake)
+[1.617s] -- Configuring done (1.2s)
+[2.363s] -- Generating done (0.6s)
+[2.812s] -- Build files have been written to: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube
+[2.857s] Invoked command in '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/kilted:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(rubix) /usr/bin/cmake --build /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube -- -j4 -l4
+[2.912s] Invoking command in '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/kilted:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(rubix) /usr/bin/cmake --install /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube
+[2.928s] -- Install configuration: ""
+[2.957s] -- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes
+[3.025s] -- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/meshes/Center_Part.stl
+[3.084s] -- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch
+[3.163s] -- Up-to-date: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/launch/rubix_launcher.launch
+[3.234s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/rubix.urdf
+[3.497s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/package_run_dependencies/rubix_cube
+[3.845s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/parent_prefix_path/rubix_cube
+[4.107s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.sh
+[4.257s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/ament_prefix_path.dsv
+[4.416s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.sh
+[4.590s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/environment/path.dsv
+[4.770s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.bash
+[4.922s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.sh
+[5.068s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.zsh
+[5.213s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/local_setup.dsv
+[5.373s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.dsv
+[5.681s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/ament_index/resource_index/packages/rubix_cube
+[6.026s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig.cmake
+[6.218s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/cmake/rubix_cubeConfig-version.cmake
+[6.420s] -- Installing: /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/install/rubix_cube/share/rubix_cube/package.xml
+[6.561s] Invoked command in '/mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/kilted:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(rubix) /usr/bin/cmake --install /mnt/c/Users/alvin/OneDrive/Documents/Uoft Folders/UofT 1st Year/Rubix cube/build/rubix_cube
